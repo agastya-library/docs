@@ -1,0 +1,26 @@
+```mermaid
+mindmap
+  root((Home))
+    Update
+        racks
+            Add
+            Remove
+        objects
+            Add
+            Remove
+    Search
+        objects
+        racks
+    Take
+        oject
+    Audit
+        racks
+            Confirm
+        objects
+            racks
+                objects
+                    Confirm
+                rack
+                    confirm
+            
+```
